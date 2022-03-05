@@ -1,0 +1,7 @@
+{
+  "name": "ionic-4-build-windows",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
