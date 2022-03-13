@@ -1,7 +1,10 @@
 {
   "name": "ionic-4-build-windows",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
   },
   "type": "angular"
 }
